@@ -59,11 +59,20 @@ git clone [url del reporisitorio]
    ```
 
 ### Ejecución del Proyecto
-- Modo Desarrollo:
+- Modo DEV:
   ```bash
   
   ```
-- Modo Producción:
+- Modo QA:
+  ```bash
+  
+  ```
+- Modo UAT:
+  ```bash
+  
+  ```
+
+- Modo PROD:
   ```bash
 
   ```
