@@ -99,7 +99,7 @@ src/
 ```
 
 
-## Contribuciones
+## Esquema de Trabajo para la Administración de Código
 
 1. [Pasos desde la clonación del repo, así como la creación de la rama y el pull request]
 
