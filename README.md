@@ -12,6 +12,7 @@
 6. [Contribuciones](#contribuciones)
 7. [Documentación](#documentación)
 8. [Licencia](#licencia)
+9. [Versiones](#versiones)
 
 ---
 
@@ -115,3 +116,22 @@ Documentación relevante del proyecto
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
+
+---
+
+## Versiones
+
+### Control de Cambios
+
+| Versión | Fecha | Autor | Descripción |
+|---------|-------|-------|-------------|
+| 1.0.0   | YYYY-MM-DD | [Nombre del autor] | Versión inicial del proyecto |
+| 1.0.1   | YYYY-MM-DD | [Nombre del autor] | [Descripción de los cambios] |
+| 1.1.0   | YYYY-MM-DD | [Nombre del autor] | [Descripción de los cambios] |
+
+### Formato de Versionado
+
+Este proyecto sigue el esquema de [Versionado Semántico](https://semver.org/lang/es/):
+- **MAJOR**: Cambios incompatibles en la API
+- **MINOR**: Funcionalidades nuevas compatibles con versiones anteriores  
+- **PATCH**: Correcciones de errores compatibles con versiones anteriores
