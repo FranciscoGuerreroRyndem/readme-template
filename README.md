@@ -5,13 +5,14 @@
 ## Tabla de Contenidos
 
 1. [Descripción General](#descripción-general)
-2. [Requisitos del Sistema](#requisitos-del-sistema)
-3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Arquitectura del Proyecto](#arquitectura-del-proyecto)
-6. [Contribuciones](#contribuciones)
-7. [Documentación](#documentación)
-8. [Licencia](#licencia)
+2. [Autores](#autores)
+3. [Requisitos del Sistema](#requisitos-del-sistema)
+4. [Instalación](#instalación)
+5. [Uso](#uso)
+6. [Arquitectura del Proyecto](#arquitectura-del-proyecto)
+7. [Contribuciones](#contribuciones)
+8. [Documentación](#documentación)
+9. [Licencia](#licencia)
 
 ---
 
@@ -26,6 +27,21 @@
 ### Alcance
 El sistema permite:
 -  [Alcance 1]
+
+---
+
+## Autores
+
+### Desarrolladores Principales
+- **[Nombre del Desarrollador Principal]** - *Rol* - [email@ejemplo.com](mailto:email@ejemplo.com)
+- **[Nombre del Desarrollador 2]** - *Rol* - [email2@ejemplo.com](mailto:email2@ejemplo.com)
+
+### Colaboradores
+- **[Nombre del Colaborador 1]** - *Descripción de la contribución*
+- **[Nombre del Colaborador 2]** - *Descripción de la contribución*
+
+### Contacto del Equipo
+Para consultas relacionadas con el proyecto, contactar a: [equipo@ejemplo.com](mailto:equipo@ejemplo.com)
 
 ---
 
